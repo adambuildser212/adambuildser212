@@ -65,7 +65,6 @@ requests==2.27.1
 Send2Trash==1.8.0
 six==1.16.0
 smmap==5.0.0
-streamlit==1.19.0
 terminado==0.12.1
 testpath==0.5.0
 toml==0.10.2
